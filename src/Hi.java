@@ -4,5 +4,7 @@ public class Hi {
         System.out.println("Hi from Sorin!");
         System.out.println("Test");
 
+        System.out.println("Test2");
+
     }
 }
